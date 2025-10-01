@@ -13,12 +13,6 @@ export default function Home() {
           >
             Go to Login
           </Link>
-          <Link
-            href="/dashboard"
-            className="px-4 py-2 border rounded hover:bg-gray-100 transition"
-          >
-            View Dashboard
-          </Link>
         </div>
       </div>
     </main>
